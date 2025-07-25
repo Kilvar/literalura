@@ -1,7 +1,7 @@
 # Challenge literalura
 Aplicacion para registrar y listar libros en una base de datos local.
 
-###Uso
+### Uso
 -Se debe contar con PostgreSQL instalado en el sistema. Modificar application.properties para ingresar el nombre de usuario y contraseña correspondientes.
 -Crear una base de datos en PostgreSQL con el nombre 'literaluraDB'.
 -Ejecutar la clase `com.alura.literalura_challenge.LiteraluraChallengeApplication`.
